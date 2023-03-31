@@ -1,0 +1,33 @@
+name: media_kit_win_mem_test
+description: media_kit mem leak test for windows
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.5 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  media_kit:
+    path: ../media_kit/media_kit
+  media_kit_video:
+    path: ../media_kit/media_kit_video
+  media_kit_native_event_loop:
+    path: ../media_kit/media_kit_native_event_loop
+  media_kit_libs_windows_video:
+    path: ../media_kit/media_kit_libs_windows_video
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/video_0.mp4
