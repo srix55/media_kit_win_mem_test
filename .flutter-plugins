@@ -1,4 +1,12 @@
 # This is a generated file; do not edit or check into version control.
-media_kit_libs_windows_video=D:\\Devspace\\espace\\media_kit\\media_kit_libs_windows_video\\
-media_kit_native_event_loop=D:\\Devspace\\espace\\media_kit\\media_kit_native_event_loop\\
-media_kit_video=D:\\Devspace\\espace\\media_kit\\media_kit_video\\
+media_kit_libs_linux=/home/srikanth/.pub-cache/hosted/pub.dev/media_kit_libs_linux-1.0.2/
+media_kit_native_event_loop=/home/srikanth/Devspace/espace/media-kit/media_kit_native_event_loop/
+media_kit_video=/home/srikanth/Devspace/espace/media-kit/media_kit_video/
+package_info_plus=/home/srikanth/.pub-cache/hosted/pub.dev/package_info_plus-4.1.0/
+screen_brightness=/home/srikanth/.pub-cache/hosted/pub.dev/screen_brightness-0.2.2/
+screen_brightness_android=/home/srikanth/.pub-cache/hosted/pub.dev/screen_brightness_android-0.1.0+2/
+screen_brightness_ios=/home/srikanth/.pub-cache/hosted/pub.dev/screen_brightness_ios-0.1.0/
+screen_brightness_macos=/home/srikanth/.pub-cache/hosted/pub.dev/screen_brightness_macos-0.1.0+1/
+screen_brightness_windows=/home/srikanth/.pub-cache/hosted/pub.dev/screen_brightness_windows-0.1.1/
+volume_controller=/home/srikanth/.pub-cache/hosted/pub.dev/volume_controller-2.0.7/
+wakelock_plus=/home/srikanth/.pub-cache/hosted/pub.dev/wakelock_plus-1.1.1/
